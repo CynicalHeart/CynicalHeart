@@ -1,6 +1,6 @@
 ## 保持饥饿，活力无限🧆
 
-<img align="right" alt="GIF" src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201510%2F06%2F20151006200400_rSPGE.thumb.700_0.gif&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1625990281&t=8f17c1007ecac9e9bebf34be3e6a4ba2" />
+<img align="right" alt="GIF" src="https://i0.hdslb.com/bfs/article/cd5be877440e1737bc66d568dcac2dcc0d51f093.gif" width="40%" height="40%"/>
 
 ### 若自爱CynicalHeart
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=red)
